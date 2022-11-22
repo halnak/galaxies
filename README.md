@@ -13,7 +13,7 @@ In Galaxies, you begin with a grid of galaxy centers (represented by dots) which
 
 ### Usage
 
-The game can be run by running "npm-watchify-client" and navigating to the galaxy-client.html page. Lines can be added by clicking over the specific grid line, and can be removed in the same manner.
+The game can be run by running "npm watchify-client" and navigating to the galaxy-client.html page. Lines can be added by clicking over the specific grid line, and can be removed in the same manner.
 
 Correctness of the solution can be checked using the "Check Solved" button, which will textually display whether the solution is correct. No visual indication will be given for correct or incorrect lines placed on the board without hitting "Check Solved". 
 
