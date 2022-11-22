@@ -7,7 +7,7 @@ In Galaxies, you begin with a grid of galaxy centers (represented by dots) which
 2. Each galaxy center must be exactly in the center, both horizontally and vertically
 3. Each galaxy region must be rotationally symmetric about 180 degrees
 
-![Empty Puzzle (example):](/img/galaxy_unsolved.JPG.jpg "Unsolved Galaxy Puzzle 1")
+![Empty Puzzle (example):](/img/galaxy_unsolved.JPG "Unsolved Galaxy Puzzle 1")
 
 ![Correctly Solved Puzzle (example):](/img/galaxy_solved.JPG "Solved Galaxy Puzzle 1")
 
@@ -19,5 +19,4 @@ Correctness of the solution can be checked using the "Check Solved" button, whic
 
 ### Notes
 
-This game has not yet finished implementation. This is a personal project I worked on for a few weeks in the Summer of 2022 in my spare time. I focused on the tests, which have all been implemented, and then implemented a majority of the basic, crude functionality. Going forward, I hope to complete the few unimplemented functions, optimize test checks and check reps (by overriding the equality function for lines and centers), and improve the aesthetic of the client page. ### Galaxy Puzzle
-
+This game has not yet finished implementation. This is a personal project I worked on for a few weeks in the Summer of 2022 in my spare time. I focused on the tests, which have all been implemented, and then implemented a majority of the basic, crude functionality. Going forward, I hope to complete the few unimplemented functions, optimize test checks and check reps (by overriding the equality function for lines and centers), and improve the aesthetic of the client page. 
